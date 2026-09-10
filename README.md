@@ -1,4 +1,5 @@
-# ICIC evidence package
+# Field Notes Archive
 
-The ZIP is AES-256 encrypted.
-Password: provided separately to the intended reviewer.
+A small password-protected archive for private review.
+
+The ZIP uses AES-256 encryption. The password is shared separately with the intended recipient.
